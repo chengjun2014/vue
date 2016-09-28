@@ -1,4 +1,4 @@
-# 基于webpack+Vue的前端工程构建
+# 基于webpack+Vue的前端工程构建  && VUE组件化开发
 
 ## start project
 
